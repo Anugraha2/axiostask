@@ -13,17 +13,7 @@
   padding: 5px;
   /* margin-top: 0px; */
   background-position: 0 0;
-  background-image: linear-gradient(
-    to right,
-    #8b3dff,
-    #452066,
-    #481f66,
-    #2e295f,
-    #1f3265,
-    #16376c,
-    #8b3dff,
-    #452066
-  );
+  background-color: yellow;
   background-size: 300%;
   animation-duration: 10s;
   animation-iteration-count: infinite;
